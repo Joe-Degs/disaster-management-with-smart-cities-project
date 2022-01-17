@@ -25,6 +25,7 @@ The main focus is to create a more disaster resilient settlement and improve the
 of inhabitants. The vsion is to have citizens live their lives confident that should any bad thing
 happen their city has systems that will step in to help overcome the dangers.
 
+<<<<<<< HEAD
 #### questions I keep asking myself
 - the process of disaster management and how it is made more resilient by technology
 - how is disaster management with smart technologies being done by developed countries
@@ -41,6 +42,8 @@ happen their city has systems that will step in to help overcome the dangers.
 - since the city's infrastructure is already in place, what will be the best way to
 - instrument the city to become a smart city.
 - what stake holders are involved in such projects from the design, building, operations,
+=======
+>>>>>>> e427d1d9af49099dc080a501a6ad11ad04bcaaa2
       to the maintenance of the projects.
 
 ## Smart Cities
