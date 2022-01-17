@@ -43,7 +43,7 @@ happen their city has systems that will step in to help overcome the dangers.
 - since the city's infrastructure is already in place, what will be the best way to
   instrument the city to become a smart city.
 - what stake holders are involved in such projects from the design, building, operations,
-      to the maintenance of the projects.
+  to the maintenance of the projects.
 
 ## Smart Cities
 Smart Cities in the simplest sense employ ICT to create a sustainable and efficient living environment
