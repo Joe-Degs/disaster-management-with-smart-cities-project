@@ -1,4 +1,4 @@
-# Forecasting And Mitigating The Effects of Natural Disasters Using Smart Technologies in Ghana
+# Making Cities In Ghana Resilient Against Disasters Using Smart Technologies
 I'm trying to figure out what to do as my final year project for school. I like technology,
 I write computer programs and the concept of cities using smart technologies to create 
 sustainable and resilient living evironments seems like a fun topic to pursue. I want to
@@ -34,11 +34,11 @@ disasters.
 #### Questions I keep asking myself
 - the process of disaster management and how it is made more resilient by technology
 - how is disaster management with smart technologies being done by developed countries
-- what research is going on in the space
+- what research is going on in the smart cities space and which people are involved
 - how are smart cities being implemented else where in the world.
 - are the systems making any changes or notable impact
 - how can we in an undeveloped country leverage technology to help us in disaster management
-- what specific technologies can be used to implement such systems
+- what specific technologies and tools can be used to implement such systems
 - how to actively involve the community in the whole development process
 - how do we make the system itself fault tolerant
 - will such a project work in a country like Ghana
@@ -86,3 +86,5 @@ Our cities are complex systems with history, location and context and different 
 interacting to keep it alife. But it can only go so far in protecting itself and the organisms
 leaning on it for sustainability. Augmenting our cities with technology makes it more resilient
 and increases its abilities to cater for our needs and help keep us safe.
+
+## Disaster Management
