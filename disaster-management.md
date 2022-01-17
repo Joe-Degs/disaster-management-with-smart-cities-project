@@ -14,6 +14,7 @@ The following 4 phases are gone through to enable us build resilient cities
 - recovery: rebuilding and bringing things back to normal
 
 __Mitigation/Prevention__
+
   the mitigation phase is before the disaster strikes. at this phase there is time
   to perform risk analysis, build resilient systems and improve how we maintain already
   running systems to protect us in the wake of emergencies. Working to reduce the
@@ -23,7 +24,8 @@ __Mitigation/Prevention__
   - community education about potential hazards and how to address them
   - protection and maintenance of critical infrastructure
 
-__#### Preparedness__
+__Preparedness__
+
   this phase is also before disaster's strike. At this phase, planners try to understand
   how disaster might affect infrastructure and processes. systems and plans are stress tested
   to prepare them for emergency situations. In the case of smart technologies simulation tests
@@ -36,6 +38,7 @@ __#### Preparedness__
   - contigency planning - advance decisions, allocating resources and organizing logistics before disaster strikes
 
 __Response__
+
   this phase is in the wake of disasters and involves what should be done to protect lives and protecties
   in emergency situations. Our main focus at this phase is taking pople out of harms way in the wake of
   disasters. Our response is already planned but it is still approach with an opened mind becuase
