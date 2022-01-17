@@ -25,22 +25,22 @@ The main focus is to create a more disaster resilient settlement and improve the
 of inhabitants. The vsion is to have citizens live their lives confident that should any bad thing
 happen their city has systems that will step in to help overcome the dangers.
 
-- what are the most important things to consider
-  1. the process of disaster management and how it is made more resilient by technology
-  2. how is disaster management with smart technologies being done by developed countries
-  3. what research is going on in the space
-  4. how are smart cities being implemented else where in the world.
-  5. are the systems making any changes or notable impact
-  6. how can we in an undeveloped country leverage technology to help us in disaster management
-  7. what specific technologies can be used to implement such systems
-  8. how to actively involve the community in the whole development process
-  10. how do we make the system itself fault tolerant
-  11. will such a project work in a country like Ghana
-  12. how do you test this complex system of systems before deploying for public use.
-  13. how to aggregate data from the system for further analysis and decision making
-  14. since the city's infrastructure is already in place, what will be the best way to
-      instrument the city to become a smart city.
-  15. what stake holders are involved in such projects from the design, building, operations,
+#### questions I keep asking myself
+- the process of disaster management and how it is made more resilient by technology
+- how is disaster management with smart technologies being done by developed countries
+- what research is going on in the space
+- how are smart cities being implemented else where in the world.
+- are the systems making any changes or notable impact
+- how can we in an undeveloped country leverage technology to help us in disaster management
+- what specific technologies can be used to implement such systems
+- how to actively involve the community in the whole development process
+- how do we make the system itself fault tolerant
+- will such a project work in a country like Ghana
+- how do you test this complex system of systems before deploying for public use.
+- how to aggregate data from the system for further analysis and decision making
+- since the city's infrastructure is already in place, what will be the best way to
+- instrument the city to become a smart city.
+- what stake holders are involved in such projects from the design, building, operations,
       to the maintenance of the projects.
 
 ## Smart Cities
