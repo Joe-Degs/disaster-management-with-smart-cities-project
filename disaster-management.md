@@ -32,7 +32,7 @@ The 4 phases involved in the disaster management process are;
 __Mitigation/Prevention__
 
   the mitigation phase is before the disaster strikes. at this phase there is time
-  to perform risk analysis, build resilient systems and improve how we maintain already
+  to perform risk analysis, plan and build resilient systems and improve how we maintain already
   running systems to protect us in the wake of emergencies. Working to reduce the
   cities vulnerability to disaster is what planners concentrate on in this phase.
   - rezoning and land-use management techniques are used here to prevent impact of
@@ -44,20 +44,23 @@ __Preparedness__
 
   this phase is also before disaster's strike. At this phase, planners try to understand
   how disaster might affect infrastructure and processes. systems and plans are stress tested
-  to prepare them for emergency situations. In the case of smart technologies simulation tests
-  are run to look for undefined behaviour of devices in emergency situations. All this is done
+  to prepare them for emergency situations. In the case of smart technologies, simulation tests may
+  be conducted to look for undefined behaviour in devices, systems and processes. All this is done
   to ensure fast, reliable and effective response times in the wake of disasters.
   Some other things to do to prepare are;
   - installing warning and prediction systems
   - aggregating data from previous emergency situations and analysing to make better decisions
-  - prepare emergency plans that involve emergency shelter, evacuation routes and emergency energy
+  - prepare emergency plans that involve emergency shelter, evacuation routes and emergency energy and water sources
   - contigency planning - advance decisions, allocating resources and organizing logistics before disaster strikes
 
 __Response__
 
-  this phase is in the wake of disasters and involves what should be done to protect lives and protecties
-  in emergency situations. Our main focus at this phase is taking pople out of harms way in the wake of
-  disasters. Our response is already planned but it is still approach with an opened mind becuase
-  disaster are different in their own ways.
+  this phase is in the wake of disasters and involves what should be done to protect lives and properties
+  in emergency situations. Fast response and protecting people from harms way are the main focus of proffesionals
+  at this phase. Stakeholders and all other actors make coordinated and collaborative efforts to provide
+  resources and relief to victims. They move to assess damage, revise disaster response plans triage cleanup
+  exercises and resource distribution if necessary. As response period progresses, focus is typically shifted from
+  immediate emergency response to reconstruction, rehabilitation and repair of damaged infrastructure, utilities
+  and processes.
 
 __Recovery__
