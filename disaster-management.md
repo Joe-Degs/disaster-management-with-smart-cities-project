@@ -1,17 +1,33 @@
 ### Disaster Management
-Disaster occur in various forms endangering the lives of people. Natural disasters
-are inevitable but man-made disaster are not. Disasters occur and it is our job
-as planners to create systems(cities and plans) that are resilient against such
-disasters. We cannot do this without understanding the process one has to go through
-to create a resilient system that can tolerate disasters. Instrumenting with smart
-technologies or building smart cities from the ground up offers lots of opportunities
-to create systems that can stand their ground in the wake of natural disasters.
+Natural disasters are inevitable but not all disaster's are. Scientific research and
+advancement in technology has led to humans understanding disasters and how it affects society better.
+Artificial intelligence, GIS, automation, robotics and other advancements in information technology
+has placed humans at a position of understanding and dealing with disasters easier and improving our ability
+to make more accurate decisions in emergency situations.
 
-The following 4 phases are gone through to enable us build resilient cities
-- mitigation: preparing for future emergencies and taking steps to minimize effects
-- preparedness: take steps to be ready for emergency situations
-- response: protect people in the wake of emergency/disaster events
-- recovery: rebuilding and bringing things back to normal
+Planners aim to create systems(cities and plans) that are resilient against such
+disasters. Prevention efforts and coordinated responses to disasters save lives and lessen
+their impact on our cities. To plan cities that are disaster tolerant, it is important that
+we work with researchers, engineers, policy makers, emergency managers, business leaders, educators
+and all other stakeholders to understand, share data and experience through close communication,
+coordination and collaboration. It is also
+important to depend on smart and autonomous technological tools to improve disaster preparedness,
+mitigation, response and recovery. These technologies help improve monitoring, observations,
+analysis, modeling, testing and forecasting and help deal with disasters - before, during and
+after it strikes.
+
+Disaster management helps to make cities and communities safer for its inhabitants. When done
+properly in the face of emergency situations helps to bring economic, emotional, social life
+back to normal within the shortest possible time. 
+Partnership between stakeholders to build resilient societies improve its chances of surviving
+emergencies and promotes researh, education, awareness, investment into the processes that make our
+socities stronger.
+
+The 4 phases involved in the disaster management process are;
+- __mitigation__: preparing for future emergencies and taking steps to minimize effects
+- __preparedness__: take steps to be ready for emergency situations
+- __response__: protect people in the wake of emergency/disaster events
+- __recovery__: rebuilding and bringing things back to normal
 
 __Mitigation/Prevention__
 
