@@ -87,4 +87,4 @@ interacting to keep it alife. But it can only go so far in protecting itself and
 leaning on it for sustainability. Augmenting our cities with technology makes it more resilient
 and increases its abilities to cater for our needs and help keep us safe.
 
-## Disaster Management
+## [Disaster Management](https://github.com/Joe-Degs/disaster-management-with-smart-cities-project/blob/master/disaster-management.md)
