@@ -3,7 +3,7 @@ solution for 'mitigating the effects of floods in cities using smart devices'.
 
 Introduction
 ---------------
-- the problems is we still rely on ancient ways of monitoring, detection and
+- the problem is we still rely on ancient ways of monitoring, detection and
 reporting incidents of floods in our cities which is by human observation.
 The level of water bodies are still been read off of markings and rainfall amount
 is still been determined by taking data manually from water collection guages
