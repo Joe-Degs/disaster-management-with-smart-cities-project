@@ -1,0 +1,60 @@
+morphology of street networks in urban neigbourhoods in Ghana: a case study of 5 neighbourhoods
+
+- how do you even begin to study morphology of any geographical thing
+
+street networks form the substrate of all interactions that happen in physical space.
+streets are the veins through which the life blood of cities (people, goods, information) flow, they
+facilitate human interaction when planned well and intentional and discourage it down when left to
+chance. Street networks entail many components - road networks, walkable networks, bikable networks,
+railway lines, bikable street networks. In the sense of this study most street networks are also
+walkable by means of their side walks unless they are ( somethig something [refer to geoff ein talk  ).
+
+-- influences and effects on human interaction
+
+(streets networks - public thoroughfare where people may freely assembly, interact or move
+about) the goal is to understanding broadly what urban neigbourhoods in Ghana look like and more
+broadly understanding how they are formed.
+
+transportation has restructured network science. what the outcomes of these developments
+- we can evaluate their work, how has it shaped out neighbourhoods and how people live in space
+- how has it shaped development, and is there any correlation between street network type and how
+the people interact in their space
+- tease out these variables
+
+- research focuses on planned and unplanned neighbourhoods in two urban centers in ghana
+- concentrating on areas that were built in the 19th centuries and the most recent ones
+1. Accra - [https://en.wikipedia.org/wiki/Neighborhoods_of_Accra]
+area = 254 km2
+pop = 
+planned neighbourhoods = osu, airport city, east legon, adenta, victoriaborg
+unplanned neighbourhoods = 
+
+2. Kumasi - 
+area = 225.7 km2
+pop = 3.348 mil
+neighbourhoods = adum, ahodwo, suame, bantama, asafo, kwadaso, nhyiaeso, santasi
+
+There exists a talk on examining the structure of structural pattern of urban road networks accross the
+ten regions in Ghana. the goal is to adapt that research to study only the road networks but also the
+walkable, bikable street networks in Ghana.
+
+New methods of doing spatial data analysis spearheaded by researchers in urban planning and
+computational science involving the 
+use of computer programming languages and computational notebooks, which offer greater value and
+opportunities for studying spatial variables for both pedagogy, research and practice. 
+this methods stress reproducibility and openness in analyzing urban data and predicting city futures.
+
+the tools used in this study are OpenStreetMap, Python, osmnx toolkit, networkX and Jupyter notebook.
+most academic papers are written in esoteric language that makes it increasing difficult for undergraduate
+students who are interested in the space of network science and urban street network analysis to break into.
+the modern tools and opensource data is making it easy to break into the field.
+
+new approaches to spatial data analysis involving the use of open data and computational data science
+has provided more opportunities less developed countries to acquire data tease out information
+that will be useful in building back better those places.
+
+-- grid networks are more profound in flat areas because they are harder to lay down in areas with ruggedt
+terrains. 
+
+questions
+---------
