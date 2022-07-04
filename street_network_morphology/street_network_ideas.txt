@@ -53,6 +53,10 @@ new approaches to spatial data analysis involving the use of open data and compu
 has provided more opportunities less developed countries to acquire data tease out information
 that will be useful in building back better those places.
 
+geoff boeing
+---------------
+new tools give us the power to evaluate the outcomes of transportation
+
 -- grid networks are more profound in flat areas because they are harder to lay down in areas with ruggedt
 terrains. 
 
