@@ -1,4 +1,4 @@
-morphology of street networks in urban neigbourhoods in Ghana: a case study of 5 neighbourhoods
+morphology of street networks in urban neigbourhoods in Ghana: a case study accross 2 cities
 
 - how do you even begin to study morphology of any geographical thing
 
@@ -38,7 +38,7 @@ There exists a talk on examining the structure of structural pattern of urban ro
 ten regions in Ghana. the goal is to adapt that research to study only the road networks but also the
 walkable, bikable street networks in Ghana.
 
-New methods of doing spatial data analysis spearheaded by researchers in urban planning and
+New methods of doing spatial data analysis spearheaded by researchers in urban planning and informatics and
 computational science involving the 
 use of computer programming languages and computational notebooks, which offer greater value and
 opportunities for studying spatial variables for both pedagogy, research and practice. 
@@ -57,7 +57,7 @@ geoff boeing
 ---------------
 new tools give us the power to evaluate the outcomes of transportation
 
--- grid networks are more profound in flat areas because they are harder to lay down in areas with ruggedt
+-- grid networks are more profound in flat areas because they are harder to lay down in areas with rugged
 terrains. 
 
 questions
