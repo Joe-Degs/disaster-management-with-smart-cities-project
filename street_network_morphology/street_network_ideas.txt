@@ -62,3 +62,20 @@ terrains.
 
 questions
 ---------
+1.Which sources and tools help in securing replicable and accurate data on street networks in Ghana?
+2.Which relevant tools and methods can be used to accumulate data, model, and visualize data to be able to tease out the metrics that help understand urban street networks.
+3.How relevant is the computational network science approach to understanding the form and structure of street networks in urban neighborhoods?
+4.How can cities effectively and sustainably operationalize the open and reproducible computational science approach to studying urban street networks and incorporate it into transportation planning and urban planning to achieve desired results?
+
+objectives
+----------
+1.To identify reproducible and open ways for securing and analyzing street network data.
+2.To explore modern computational data science approaches and freely available spatial data and tools to create replicable and verifiable analyses and comparisons of street network structure and form across city neighborhoods in Ghana.
+3.To assess the importance of using open-data, open-science with the benefits of network science in the study of street networks on the local scale.
+4.To provide a comprehensive addition to the current toolset and resources needed for effective studying of street networks and provide a minimal framework that can built upon to increase scope of studies like this done in Ghana.
+
+
+discussions
+-----------
+1.the need to adopt these tools for schools and policy makers, break reliance on primitive and old tech and take advantage of all the goodness of modern tech
+2. take a more proactive approach to learning and teaching on the subject
